@@ -44,7 +44,7 @@ Youtube Playlist Analyzer uses Youtube Data API to analyze any youtube playlist 
    
 # MINI PROJECTS
 
-### Wise Men Web Service
+### Wise Men
 
 
 "Wise Men" is a RESTful web service that lets you retrieve top quotations that match your query, using Word embeddings and K-Nearest Neighbor techniques. (2019, April)
