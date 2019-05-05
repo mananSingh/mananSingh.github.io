@@ -1,5 +1,5 @@
 
-#MAJOR PROJECTS
+# MAJOR PROJECTS
 
 ### The CryptoGame
 
@@ -42,7 +42,7 @@ Youtube Playlist Analyzer uses Youtube Data API to analyze any youtube playlist 
    
      
    
-#MINI PROJECTS
+# MINI PROJECTS
 
 ### Wise Men Web Service
 
