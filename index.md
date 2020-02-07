@@ -31,8 +31,8 @@ It offers a set of cryptography related tools using which teachers can demonstra
 
 Youtube Playlist Analyzer uses Youtube Data API to analyze any youtube playlist or channel, and display the related information graphically. (2016, January)
 
-
-[Original Website](http://youtube-playlist-analyzer.appspot.com/), 
+~~Original Website~~, 
+<!--[Original Website](http://youtube-playlist-analyzer.appspot.com/), -->
 [Mirror Site](http://youtube-api-test-1170.appspot.com/)  
   
 .    
