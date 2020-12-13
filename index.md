@@ -5,7 +5,7 @@
 
 
 "A Cryptography based Interactive Fiction."   
-_Plot_: Sudden Disappearance of a Cryptographer has led to a trail of mysterious Cipher clues. Investigate the Case - Riddles, Warnings and Secret messages - to uncover the reality and save those in danger. (HTML, JS, JQuery, Materialize CSS) (2016, May)
+_Plot_: Sudden Disappearance of a Cryptographer has led to a trail of mysterious Cipher clues. Investigate the Case - Riddles, Warnings and Secret messages - to uncover the reality and save those in danger. (2016, May)
 
 
 [Official Website](http://manansingh.github.io/crypto-game)   
@@ -16,23 +16,12 @@ _Plot_: Sudden Disappearance of a Cryptographer has led to a trail of mysterious
 ### CryptoLab
 
 
-It offers a set of cryptography related tools using which teachers can demonstrate and students can practice various techniques from classical caesar to modern RC4, DES and RSA. The tools also display the immediate intermediate steps behind the processes of modern advanced techniques like RC4, DES Modes, etc. (HTML, JS, JQuery, Materialize CSS) (2016, April)
+It offers a set of cryptography related tools using which teachers can demonstrate and students can practice various techniques from classical caesar to modern RC4, DES and RSA. The tools also display the immediate intermediate steps behind the processes of modern advanced techniques like RC4, DES Modes, etc. (2016, April)
 
 
 [Try online Demo](http://manansingh.github.io/Cryptolab-Offline/) or 
 [Download](https://github.com/mananSingh/Cryptolab-Offline/archive/gh-pages.zip)
 
-
-***
-
-
-### YouTube Playlist Analyzer
-
-
-Youtube Playlist Analyzer uses Youtube Data API to analyze any youtube playlist or channel, and display the related information graphically. (PHP, Youtube Data API, C3.js) (2016, January)
-
-<!--~~Original Website~~, [Mirror Site](http://youtube-api-test-1170.appspot.com/)  -->
-<!--[Original Website](http://youtube-playlist-analyzer.appspot.com/), -->
 
   
 .    
@@ -47,7 +36,7 @@ Youtube Playlist Analyzer uses Youtube Data API to analyze any youtube playlist 
 ### Wise Men
 
 
-"Wise Men" is a RESTful web service that lets you retrieve top quotations that match your query, using Word embeddings and K-Nearest Neighbor techniques. (Python, sci-kit learn, flask) (2019, April)
+"Wise Men" is a RESTful web service that lets you retrieve top quotations that match your query, using Word embeddings and K-Nearest Neighbor techniques. (2019, April)
 
 
 [Website](https://wisemen.herokuapp.com/)
@@ -58,9 +47,9 @@ Youtube Playlist Analyzer uses Youtube Data API to analyze any youtube playlist 
 ### Good Thoughts
 
 
-"Good Thoughts" is an app that lets you explore, browse, and search the great words of wisdom (quotes & thoughts) of the seer saint Shriram Sharma Acharya. (HTML, CSS, JS, JQuery) (2015, October)
+"Good Thoughts" is an app that lets you explore, browse, and search the great words of wisdom (quotes & thoughts) of the seer saint Shriram Sharma Acharya. (2015, October)
 
-
+[Website](https://manansingh.github.io/good-thoughts/menu.html)
 
 ***
 
@@ -68,9 +57,9 @@ Youtube Playlist Analyzer uses Youtube Data API to analyze any youtube playlist 
 ### Raghav Yadaviyam
 
 
-Raghav Yadaviyam is an app that lets you interactively read the 30 verses of Shri Raghav Yadaviyam, by flipping various 'cards'; enjoying the beautiful design of the app and extreme wonder of this Sanskrit work. (HTML, CSS, JS, JQuery) (2015, October)
+Raghav Yadaviyam is an app that lets you interactively read the 30 verses of Shri Raghav Yadaviyam, by flipping various 'cards'; enjoying the beautiful design of the app and extreme wonder of this Sanskrit work. (2015, October)
 
-
+[Website](https://manansingh.github.io/raghav-yadaveeyam/menu.html)
 
 ***
 
@@ -78,10 +67,9 @@ Raghav Yadaviyam is an app that lets you interactively read the 30 verses of Shr
 ### Interest Profiler - Holland Code
 
 
-Know your interest profile (or Holland Code) by taking a 1 minute questionnaire/test/survey, and choose career more wisely. (HTML, CSS, JS) (2015, October)
+Know your interest profile (or Holland Code) by taking a 1 minute questionnaire/test/survey, and choose career more wisely. (2015, October)
 
-
-
+[Website](https://manansingh.github.io/Interest-Profile-Holland-Code/menu.html)
 
 ***
 
@@ -89,9 +77,9 @@ Know your interest profile (or Holland Code) by taking a 1 minute questionnaire/
 ### CS Trek
 
 
-CS TREK is a web experiment which introduces Computer Science's core concepts along, and analogous to a small space trip. It offers an 'INTO'-parallax scrolling experience; unlike ever before, on the web, using just css3 and skrollr.js. The illusion of 3D space travel is created as you scroll. (HTML, CSS, JS, JQuery) (2014, June) 
+CS TREK is a web experiment which introduces Computer Science's core concepts along, and analogous to a small space trip. It offers an 'INTO'-parallax scrolling experience; unlike ever before, on the web, using just css3 and skrollr.js. The illusion of 3D space travel is created as you scroll. (2014, June) 
 
-
+[Website](https://manansingh.github.io/cs-trek/)
 
 
 ***
@@ -100,8 +88,8 @@ CS TREK is a web experiment which introduces Computer Science's core concepts al
 ### FIFA 5S
 
 
-FIFA 5S is a web experiment which, in a brilliant way, presents the FIFA's 5-'S's that lead to success IN GAME & IN LIFE. It uses css3 and skrollr.js for creating a gorgeous blend of parallax and animation effects, as you scroll. Works best in Mozilla Firefox. (HTML, CSS, JS, JQuery) (2014, June) 
+FIFA 5S is a web experiment which, in a brilliant way, presents the FIFA's 5-'S's that lead to success IN GAME & IN LIFE. It uses css3 and skrollr.js for creating a gorgeous blend of parallax and animation effects, as you scroll. Works best in Mozilla Firefox. (2014, June) 
 
-
+[Website](https://manansingh.github.io/FIFA-5S/)
 
 
